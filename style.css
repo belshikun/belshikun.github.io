@@ -1,0 +1,16 @@
+html, body {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 75ch;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ fig-caption {
+    text-align: center;
+}
+
