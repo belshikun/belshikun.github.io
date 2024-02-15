@@ -1,7 +1,7 @@
 +++
 title = 'Castalia Chronicles, Treasure Log'
 date = 2023-11-30T10:15:01-05:00
-draft = true
+draft = false
 +++
 
 ### Session 2

@@ -1,7 +1,7 @@
 +++
 title = 'Castalia Chronicles, Session 2 (2023-07-16)'
 date = 2023-11-30T09:50:59-05:00
-draft = true
+draft = false
 +++
 
 ### Wednesday, November 21, 652 AU, continued
