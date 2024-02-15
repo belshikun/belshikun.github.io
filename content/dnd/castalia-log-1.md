@@ -1,7 +1,7 @@
 +++
 title = 'Castalia Log 1'
 date = 2024-02-15T15:41:31-05:00
-draft = true
+draft = false
 +++
 
 +++
