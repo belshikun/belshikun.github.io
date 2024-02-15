@@ -1,7 +1,7 @@
 +++
 title = 'Castalia Chronicles, Session 1 (2023-06-04)'
 date = 2023-11-30T08:52:58-05:00
-draft = false
+draft = true
 +++
 
 In Kyasha's Notch, one of the few passes through the Grey Mountains of eastern Castalia, lies the village of Kyasha's Vale. A sacred spring with healing waters once flowed high in the mountains above the village, drawing pilgrims from all over the kingdom---but it dried up about a century ago, and the pilgrims stopped coming. The village turned to logging to support itself, supplemented by travelers passing through the notch. But with the new railway through the mountains fifty miles to the north, the number of travelers has dwindled to a mere trickle.
@@ -129,4 +129,3 @@ On the verge of death, Aurelia has a vision. Standing in the room with them is a
 Shaken, they press on. In the next room, they find a large waterworks with pipes everywhere, presumably for rerouting and bottling the sacred water. They also find what appears to be a hospital room. It looks like all the patients died violently.
 
 They find a journal in a drawer in one of the bedside tables, written by a patient who was transported here to be healed. It looks like this secret location was where politically important or sensitive patients were brought for long-term healing, rather than the pilgrims who came to the pool on the surface. &#x2766;
-
