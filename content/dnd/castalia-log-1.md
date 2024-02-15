@@ -1,13 +1,7 @@
 +++
-title = 'Castalia Log 1'
-date = 2024-02-15T15:41:31-05:00
-draft = false
-+++
-
-+++
 title = 'Castalia Chronicles, Session 1 (2023-06-04)'
 date = 2023-11-30T08:52:58-05:00
-draft = true
+draft = false
 +++
 
 In Kyasha's Notch, one of the few passes through the Grey Mountains of eastern Castalia, lies the village of Kyasha's Vale. A sacred spring with healing waters once flowed high in the mountains above the village, drawing pilgrims from all over the kingdom---but it dried up about a century ago, and the pilgrims stopped coming. The village turned to logging to support itself, supplemented by travelers passing through the notch. But with the new railway through the mountains fifty miles to the north, the number of travelers has dwindled to a mere trickle.
