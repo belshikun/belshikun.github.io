@@ -1,7 +1,7 @@
 +++
 title = 'On Modes'
 date = 2023-12-07T13:30:17-05:00
-draft = true
+draft = false
 +++
 
 Every explanation of the diatonic modes that I was exposed to in childhood used the same ordering: Ionian, Dorian, Phrygian, Lydian, Mixolydian, Aeolian, Locrian. The reason is simple: If you play a scale from C to C using only the white keys, you have the Ionian mode; if you play from D to D, you have a Dorian mode; and so on. This was very simple, easy for me to remember, and utterly handicapped my ability to think about modes.

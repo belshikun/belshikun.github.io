@@ -1,7 +1,7 @@
 +++
 title = 'On Practicing Piano'
 date = 2023-12-07T13:58:10-05:00
-draft = true
+draft = false
 +++
 
 This is my usual method of practicing, gleaned from my teacher, old posts on the [Piano Street](http://pianostreet.com/) forums, Graham Fitch's *Practising the Piano*, and various other books and resources. It's rare that I follow these steps exactly, but they are an ideal to aim for.

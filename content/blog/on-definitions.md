@@ -1,7 +1,7 @@
 +++
 title = 'On Definitions'
 date = 2023-12-06T11:03:05-05:00
-draft = true
+draft = false
 +++
 
 I would like to argue that the question "Are viruses alive?" is a question about language, not about any objective fact about external reality, and that there is no correct answer. I'm sure there's a standard name for this argument and I'd bet Wittgenstein has already talked about it, but I haven't read any Wittgenstein so this is my personal attempt to articulate it. The impetus for writing this came from reading [this article](https://www.quantamagazine.org/what-is-life-its-vast-diversity-defies-easy-definition-20210309/) in Quanta Magazine and from a conversation about it on Twitter.

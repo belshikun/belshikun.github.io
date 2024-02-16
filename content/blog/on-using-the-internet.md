@@ -1,7 +1,7 @@
 +++
 title = 'On Using the Internet'
 date = 2023-12-07T14:22:11-05:00
-draft = true
+draft = false
 +++
 
 I'm not happy with the way I use the internet. I continually refresh the same websites, hoping something new has appeared since last time---usually there's nothing. Occasionally I'll find something interesting, but it's never worth the time I've wasted. The slot machine analogy, though clichéd, is still relevant. I feel a little spark of excitement and anticipation every time I check, and that strengthens the compulsion, even though I am disappointed most of the time.

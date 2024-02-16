@@ -1,7 +1,7 @@
 +++
 title = 'On Piano Pedagogy'
 date = 2023-12-07T13:55:25-05:00
-draft = true
+draft = false
 +++
 
 During my time researching piano pedagogy, I've encountered practical advice that I've never seen outside of music but which I'm sure would apply to other fields. Here are the top three that stood out to me over the years.
