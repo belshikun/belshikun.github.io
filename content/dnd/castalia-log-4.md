@@ -196,7 +196,7 @@ Tolman squints and looks intently at the drawing. "Not to offend, miss, but this
 
 Aurelia interjects. "If you don't mind my asking, why haven't the books *already* been brought back? Silverdale was destroyed a century ago."
 
-"Well, no one has been brave enough to get through the zombies. When the Crystalport guard was sent in, it was to slay as many undead as they could, not to get our books for us. And there were still too many undead for anyone to deal with. Fewer undead now, since many of them have been destroyed over the years."
+"Well, no one has been brave enough to get through the zombies. When the Crystalport guard was sent in, it was to slay as many undead as they could, not to get our books for us. And there were still too many undead for anyone to deal with. Fewer undead now, since many of them have been destroyed over the years.
 
 "And, to tell the truth, you're not the first ones to ask about a sword. About three weeks ago, someone came in asking for information about a centuries-old sword and two daggers. Offered to pay me handsomely."
 
