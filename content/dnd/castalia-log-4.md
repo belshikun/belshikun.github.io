@@ -1,8 +1,10 @@
 +++
-title = 'Castalia Chronicles, Session 4 (2023-10-09)'
+title = 'Castalia Chronicles, Session 4'
 date = 2023-11-30T13:14:04-05:00
 draft = false
 +++
+
+*Played on 2023-10-09.*
 
 ### Wednesday, November 28, 652 AU, continued
 
