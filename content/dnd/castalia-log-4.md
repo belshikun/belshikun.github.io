@@ -6,7 +6,7 @@ draft = false
 
 *Played on 2023-10-09.*
 
-### Wednesday, November 28, 652 AU, continued
+## Wednesday, November 28, 652 AU, continued
 
 Aurelia immediately channels sunlight, and Leander backs away, hissing in pain as his skin sizzles. "Head for the window!" she shouts. Qhask fires an arrow at Leander, and Leander retaliates with a *fire bolt*, then *misty step*s in front of Valya and Aurelia, blocking their path to the window.
 
@@ -103,7 +103,7 @@ Well, it's a lead. Some more digging implies that Cecil Sharpe was an amateur ar
 
 Worryingly, Fergus and Harmony still haven't turned up.
 
-### Thursday, November 29, 652 AU
+## Thursday, November 29, 652 AU
 
 The next morning, they're greeted at their door by a familiar face.
 
@@ -135,7 +135,7 @@ The moment he is out of earshot, Aurelia turns to the rest of them and grimly sa
 
 "We have to come up with a better name than him, too," says Aurelia. "If there *are* bards at this gala, well... names *stick*."
 
-### Friday, November 30 to Monday, December 3, 652 AU
+## Friday, November 30 to Monday, December 3, 652 AU
 
 The party spends the next few days training in preparation for the hydra. During this time, they read a few flyers posted on a bulletin board in the main city square:
 
@@ -156,7 +156,7 @@ While walking down the street one day, a small drake flies down from the sky and
 
 The drake waits patiently, staring at Qhask. "Well, I guess we've got a drake now!"
 
-### Tuesday, December 4, 652 AU
+## Tuesday, December 4, 652 AU
 
 Having sufficiently trained, the party takes a ferry across Corentin's Mirror to Rimehollow early in the morning. Valya asks a passing woman how to find the Kildare smithy, and the woman says it's easy: Just follow the acrid smoke and the sound of hammers.
 
@@ -376,7 +376,7 @@ It turns out that one of the dwarves does, indeed, have a cousin who was on the 
 
 Abundance thanks the dwarves for the information, and with that, the party return to the temple to rest.
 
-### Wednesday, December 5, 652 AU
+## Wednesday, December 5, 652 AU
 
 In the morning, Aurelia prays to Soleil for answers. Instead, she has another vision. It's similar to the first, except each of the three sections is more detailed. She sees Beatrice suspended in a void by two chains, but now sees that the chains are attached to enormous spheres. She sees the comet, but also sees ragged-edged voids in the sky, and watches as the comet crashes into the surface of the world. She sees the woman being raised from the dead as a zombie, but now hears a voice say "rise" as it happens. Aurelia snaps back to reality in a cold sweat.
 

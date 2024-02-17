@@ -6,7 +6,7 @@ draft = false
 
 *Played on 2023-09-10.*
 
-### Sunday, November 25, 652 AU
+## Sunday, November 25, 652 AU
 
 The following morning, Fergus arrives at The Pinnacle and rejoins the party. They talk more about the plight of Kyasha's Vale and speculate about what happened to Silverdale. If Neesha's cult was responsible for sabotaging The Pool of Tears, could they also be responsible for Silverdale? Both Aurelia and Valya are interested in exploring the ruins.
 
@@ -158,7 +158,7 @@ Perrit smiles one last time. "If I meet such a person by that name."
 
 Fergus is ushered back out into the street, and returns to the temple.
 
-### Monday, November 26, 652 AU
+## Monday, November 26, 652 AU
 
 Everyone accompanies Valya to the blacksmith to pick up her newly repaired rapier, and then to the leather district where she drops off her armor for repairs. Then they head to Maggie Cavalier's house to get more information about her lost son.
 
@@ -238,7 +238,7 @@ Fergus looks at Harmony, who shrugs, and then back at Perrit. "Sure, I can think
 
 Fergus nods, and is escorted back out onto the street. He makes his way back to the temple, and sneaks back into his room, with no one the wiser.
 
-### Tuesday, November 27, 652 AU
+## Tuesday, November 27, 652 AU
 
 That morning, before they even have breakfast, Fergus receives a *sending* from Harmony. "*This is Harmony. Think hydra idea is great. Remembered info I came across. Vargrath Keep might have teleportation tablet. Meet out back twenty minutes.*"
 
@@ -262,7 +262,7 @@ Once out on Corentin's Mirror, far enough away from land, Morgan casts *unseen s
 
 It only takes them four hours to reach the river and travel a few miles upstream. Vargrath Keep is within sight, high on a cliff overlooking the dense conifer forest that crowds around the river. Once they can go no further, they anchor the ship. They discuss their plan, and they all agree to have as early a start as possible the following morning so they don't have to worry about being in these woods---or the keep---at night. They spend the rest of the day training. Aurelia meditates, Qhask fires arrows at the trees, and Valya practices the techniques she has been learning at the academy.
 
-### Wednesday, November 28, 652 AU
+## Wednesday, November 28, 652 AU
 
 Early in the morning, they disembark and enter the dark forest, leaving Morgan behind to mind the ship. They make it only a hundred feet before they hear the moaning of the undead. Qhask sneaks forward to investigate, and is shocked at what he finds. He calls the rest of the party forward.
 

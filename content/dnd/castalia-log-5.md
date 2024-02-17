@@ -6,7 +6,7 @@ draft = false
 
 *Played on 2023-10-23.*
 
-### Wednesday, December 5, 652 AU (continued)
+## Wednesday, December 5, 652 AU (continued)
 
 After investigating the bodies of the bandits and their stolen carriage, the party moves on to investigating their horses. Valya attempts to calm them down, but this just seems to make the horses more agitated. "I'm... not very good with animals," says Valya. Qhask tries instead, and soon the horses are docile enough that Qhask thinks they can untie them from the overturned carriage without any trouble. He's right, and they start walking the horses down the road.
 
@@ -164,7 +164,7 @@ Suddenly, as the party is taking in this scene, there is movement in the water. 
 
 The party fight well, though, and manage to take down the lizards, with the only casualty being Qhask's drake. They harvest some snails, just in case, and return to the grung village. At this point, it is late in the afternoon, and they decide to spend the night with the grung. The grung are happy to host friends of Cora, especially friends who plan to free her from the basilisk's curse.
 
-### Thursday, December 6, 652 AU
+## Thursday, December 6, 652 AU
 
 The next morning, they decide to split the party. Qhask and Aurelia stay behind with the grung, while Valya and Abundance return to the village to retrieve Cora's notes. They first head to the temple of Corentin, where Gordon informs them of a new development in the infirmary. Tobias has not died overnight (to the party's relief), but that morning two badly-wounded mercenaries entered town from the west and collapsed. They catch a glimpse of the infirmary, and note something interesting---the newcomers' belongings have been piled on one side of the room, and among them is a large crate. Could these be the mercenaries hired by Red Eagle Shipping Company to transport the package?
 

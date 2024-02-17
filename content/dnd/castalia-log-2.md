@@ -6,7 +6,7 @@ draft = false
 
 *Played on 2023-07-16.*
 
-### Wednesday, November 21, 652 AU, continued
+## Wednesday, November 21, 652 AU, continued
 
 They move further into the facility and discover the two missing zombies. They manage to catch the zombies by surprise... but the oozes lurking in the water catch *them* by surprise. Thankfully, these slimes are weak, and the party is able to take them out without too much difficulty.
 
@@ -18,7 +18,7 @@ Back at The Healing Hand they talk to Saphielle, who says the guards have cleare
 
 Apparently, they don't contain wine---they contain a highly explosive oil! She suggests they could be used to fight the hydra, but no one is sure how---they decide to leave the barrels at the inn with Avilia.
 
-### Thursday, November 22, 652 AU
+## Thursday, November 22, 652 AU
 
 The next morning, Saphielle, Trurdig, and Harmony leave west for Crystalport. Aurelia asks Avilia if she knows anyone in the village who could remember anything about the corruption of the Pool of Tears, and Avilia suggests she talk with an elderly woman named Jessica who lives just a few houses down.
 
@@ -66,7 +66,7 @@ Klabrog gives Valya much the same story as Jessica gave to Aurelia.
 
 Back at the inn, Aurelia and Valya relay the information they've discovered to the other party members. They briefly discuss the idea that the de Lane family destroyed the pool, but they're not sure it adds up. No one is sure what to make of Silverdale. In any case, they're still badly hurt from their encounters in the shrine, so they decide to rest for one more day.
 
-### Friday, November 23, 652 AU
+## Friday, November 23, 652 AU
 
 They return to the pool. The hydra is nowhere in sight, thankfully, so they sneak into the underground facility and return to that tunnel they found.
 
@@ -108,7 +108,7 @@ Qhask attempts to lead them back to Kyasha's Vale, but after a few hours of head
 
 It's sunset by the time they make it back into town. Before they head to bed, they talk to William and Lydia, and give Lydia one of the vials of water from the geode. Lydia looks better after drinking it, and says as much, which is promising. William thanks them profusely.
 
-### Saturday, November 24, 652 AU
+## Saturday, November 24, 652 AU
 
 The party sits around the common room to plan their next moves. They could take the scale to Klabrog, but what would the town guard do, even if they believed them?
 

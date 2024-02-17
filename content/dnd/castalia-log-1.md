@@ -15,7 +15,7 @@ Four travelers find themselves in Kyasha's Vale on a late autumn night, snowed i
 - **Fergus O'Toole**, a human bard who has been in Kyasha's Vale for a few days, getting to know the local loggers and listening to their tales of shadows seen in the woods of late.
 - **Qhask Bronzeback**, a kobold ranger. His master, the bronze dragon Caranthiax, was recently murdered by demons. He doesn't know if any other kobolds survived the assault on the dragon's lair.
 
-### Tuesday, November 20, 652 AU
+## Tuesday, November 20, 652 AU
 
 The guests of The Healing Hand are woken at two in the morning by a scream from outside. Everyone rushes downstairs to the common room just in time to see a woman in an expensive nightgown stumble in from the raging snowstorm. The lower half of her gown is soaked, and her hands have blood on them.
 
@@ -94,7 +94,7 @@ Chaos ensues. Rex makes for the window, but is stopped by Aurelia and Qhask. Aur
 
 Everyone watches as Rex's body morphs into his true form---a doppelganger! With the mystery solved (except *why*... maybe Alec witnessed Rex's true form?), everyone returns to bed.
 
-### Wednesday, November 21, 652 AU
+## Wednesday, November 21, 652 AU
 
 The next morning, while in the common room, they receive a visit from Klabrog, the head of the town guard, and **Edward de Lane**, the reeve of Kyasha's Vale. The reeve is an unpleasant person, and he demands to know why the party has disrupted the peace and claimed there was a murderer on the loose, tarnishing the good name of their peaceful village. The party protests and shows them the body of the doppelganger, and Klabrog confirms that he's asked the guests what happened and it seems like there was, in fact, a murder.
 
