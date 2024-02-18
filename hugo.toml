@@ -20,6 +20,10 @@ title = 'Frog Urn Citadel'
     url = "/dnd"
     weight = 4
 [[menu.main]]
+    name = "Misc"
+    url = "/misc"
+    weight = 5
+[[menu.main]]
     name = "About"
     url = "/about"
-    weight = 5
+    weight = 6
