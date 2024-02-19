@@ -6,7 +6,7 @@ draft = false
 
 Here are some websites I read regularly, or find interesting enough to point out.
 
-### Blogs
+## Blogs
 
 * [A Collection of Unmitigated Pedantry](http://acoup.blog/) by Bret Devereaux
 * [Astral Codex Ten](http://astralcodexten.substack.com/) by Scott Alexander
@@ -18,19 +18,19 @@ Here are some websites I read regularly, or find interesting enough to point out
 * [The n-Category Caf&eacute;](https://golem.ph.utexas.edu/category/) by various
 * [Things of Interest](https://qntm.org/) by qntm
 
-### Webcomics
+## Webcomics
 
 * [SMBC](https://www.smbc-comics.com/) by Zach Weinersmith
 * [xkcd](https://xkcd.com/) by Randall Munroe
 
-### YouTube
+## YouTube
 
-#### Cooking
+### Cooking
 
 * [Helen Rennie](https://www.youtube.com/@helenrennie)
 * [J. Kenji L&oacute;pez-Alt](https://www.youtube.com/@JKenjiLopezAlt)
 
-#### Music
+### Music
 
 * [Jacob Gran](https://www.youtube.com/@JacobGran)
 

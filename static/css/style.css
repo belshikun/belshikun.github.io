@@ -10,13 +10,17 @@ header h1 {
 }
 
 main h1 {
-    font-size: 1.66em;
+    font-size: 1.5em;
 }
 
 main h2 {
-    font-size: 1.33em;
+    font-size: 1.25em;
 }
 
 main h3 {
-    font-size: 1.17em;
+    font-size: 1.125em;
+}
+
+main h4 {
+    font-size: 1.0em;
 }
