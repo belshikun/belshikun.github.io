@@ -5,3 +5,5 @@ draft = false
 +++
 
 More here later...
+
+The name of this blog is an anagram of my old Twitter handle @CurlOfGradient.
