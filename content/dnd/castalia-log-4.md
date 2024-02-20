@@ -139,7 +139,7 @@ The moment he is out of earshot, Aurelia turns to the rest of them and grimly sa
 
 The party spends the next few days training in preparation for the hydra. During this time, they read a few flyers posted on a bulletin board in the main city square:
 
-- Red Eagle shipping corporation is seeking to guard a shipment from Basinglen to Crystalport on the morning of December 6th.
+- Red Eagle shipping corporation is seeking to guard a shipment from Basinglen to Crystalport on the morning of December 6th. The reward is 50 gp.
 - The Kildare family in Rimehollow is looking for brave adventurers, but they don't say what for.
 
 Valya is very interested in the possibility of speaking to the Kildare family.
