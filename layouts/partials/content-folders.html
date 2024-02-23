@@ -1,0 +1,5 @@
+<ul>
+    {{ range .Site.Sections }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+</ul>
