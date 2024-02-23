@@ -8,8 +8,8 @@ title = 'Frog Urn Citadel'
     url = "/blog"
     weight = 1
 [[menu.main]]
-    name = "Diary"
-    url = "/diary"
+    name = "Journal"
+    url = "/journal"
     weight = 2
 [[menu.main]]
     name = "D&D"
