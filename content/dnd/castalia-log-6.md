@@ -2,6 +2,7 @@
 title = 'Castalia Chronicles, Session 6'
 date = 2023-11-30T13:56:47-05:00
 draft = true
+type = 'log'
 +++
 
 *Played on 2023-11-26.*
@@ -186,7 +187,7 @@ Valspira frowns. "You will, when you hear what I have to offer you."
 
 "AU? That means nothing to me. Who is king right now?"
 
-"Oriel IX Fentris."
+"Oriel IX Fentris is queen."
 
 "Fentris?" Valspira barks a laugh. "Then that old bastard Raymond managed to keep his kingdom... Oriel is his daughter, I take it?" The party looks at each other awkwardly. Valspira's face darkens. "Granddaughter?"
 

@@ -2,6 +2,7 @@
 title = 'Castalia Chronicles, Session 5'
 date = 2023-11-30T13:48:26-05:00
 draft = false
+type = 'log'
 +++
 
 *Played on 2023-10-23.*

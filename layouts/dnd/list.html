@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <main>
+    <article>
+      {{ .Content }}
+    </article>
+    <ul>
+      {{ range where .Pages.ByTitle "Type" "log" }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        </li>
+      {{ end }}
+      <hr>
+      {{ range where .Pages.ByTitle "Type" "!=" "log" }}
+        <li>
+            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </main>
+{{ end }}
