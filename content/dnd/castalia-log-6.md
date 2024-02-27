@@ -232,3 +232,23 @@ Thus prepared, the party heads to the Daykin Estate.
 There's a line of well-dressed nobles at the entrance to the estate. A servant checks their names one by one, granting them passage. "Ah, yes, guests of Captain Woodmore," he says. "Welcome to the Daykin estate."
 
 The interior of the estate is lavish, unlike anything any of them---except Valya---have ever seen. 
+
+- Abundance goes to food table, chats with Cheldric Tunnely about shipments, sees someone upstairs
+- Valya avoids Lady Aliatha Omanys, a noble from Thamior who moved to Crystalport but still has ties
+- Aurelia finds Calvin and Leander
+- Abundance goes to bathroom to discretely cast detect magic
+- Meet up with Aurelia
+- Warn Calvin, but he already knows
+- Go upstairs with Lythienne to private quarters
+- Cast suggestion on Leander
+- Learn of Tharruk's plot
+- Tie up Leander
+- Fergus arrives, Abundance won't let him near Calvin
+- Break in by Wood Scorpions
+- Take secret tunnel
+- Archer, but bonfire down tunnel
+- Exit
+- Return to temple (with two guards)
+- In crypts (due to protection magic)
+- Leander tells them about Tharruk's plan, his backstory, Book of Dark Waves, gives Aurelia his brooch of living essence
+- Next morning, rumors of imps from tower at manor

@@ -1,5 +1,5 @@
 <ul>
-    {{ range .Site.Sections }}
+    {{ range sort .Site.Sections "Params.weight" }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
 </ul>
