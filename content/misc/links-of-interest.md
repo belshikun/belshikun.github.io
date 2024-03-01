@@ -15,7 +15,7 @@ Here are some websites I read regularly, or find interesting enough to point out
 * [In the Pipeline](https://www.science.org/blogs/pipeline) by Derek Lowe
 * [Not Even Wrong](https://www.math.columbia.edu/~woit/wordpress/) by Peter Woit
 * [Preposterous Universe](https://www.preposterousuniverse.com/blog/) by Sean Carroll
-* [The n-Category Café;](https://golem.ph.utexas.edu/category/) by various
+* [The n-Category Café](https://golem.ph.utexas.edu/category/) by various
 * [Things of Interest](https://qntm.org/) by qntm
 
 ## Webcomics
