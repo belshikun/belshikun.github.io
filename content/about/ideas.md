@@ -1,7 +1,7 @@
 +++
 title = 'Ideas'
 date = 2024-03-02T14:32:17-05:00
-draft = true
+draft = false
 +++
 
 A list of projects and plans for the future.
