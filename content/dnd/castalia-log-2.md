@@ -1,7 +1,6 @@
 +++
 title = 'Castalia Chronicles, Session 2'
 date = 2023-11-30T09:50:59-05:00
-draft = false
 type = 'log'
 +++
 

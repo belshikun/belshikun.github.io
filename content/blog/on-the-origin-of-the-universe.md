@@ -1,7 +1,6 @@
 +++
 title = 'On the Origin of the Universe'
 date = 2023-12-07T14:13:21-05:00
-draft = false
 +++
 
 
