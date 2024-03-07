@@ -231,7 +231,9 @@ Thus prepared, the party heads to the Daykin Estate.
 
 There's a line of well-dressed nobles at the entrance to the estate. A servant checks their names one by one, granting them passage. "Ah, yes, guests of Captain Woodmore," he says. "Welcome to the Daykin estate."
 
-The interior of the estate is lavish, unlike anything any of them---except Valya---have ever seen. 
+The interior of the estate is lavish, unlike anything any of them---except Valya---have ever seen. Dozens of nobles are spread out over most of the first floor of the estate, but Abundance notices that there are guards blocking the staircase to the upper floors, as well as a hallway. He surmises that the hallway must lead to the kitchen, as staff periodically exit the hallway with full platters of canapés.
+
+They decide to split up
 
 - Abundance goes to food table, chats with Cheldric Tunnely about shipments, sees someone upstairs
 - Valya avoids Lady Aliatha Omanys, a noble from Thamior who moved to Crystalport but still has ties
