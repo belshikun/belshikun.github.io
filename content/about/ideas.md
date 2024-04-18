@@ -1,6 +1,7 @@
 +++
 title = 'Ideas'
 date = 2024-03-02T14:32:17-05:00
+draft = true
 +++
 
 A list of projects and plans for the future.
@@ -8,6 +9,14 @@ A list of projects and plans for the future.
 ## Programming Projects
 
 - [Project Euler](https://projecteuler.net)
+
+### Languages
+
+- Python
+- R
+- Rust and/or Zig?
+- Haskell
+- Scheme
 
 ### Digital Aquarium
 
@@ -93,3 +102,8 @@ I will probably never get around to the math and physics books, since I don't ha
 - Cohen-Tannoudji, *Quantum Mechanics*
 - Reif, *Fundamentals of Statistical and Thermal Physics*
 - Taylor & Wheeler, *Spacetime Physics*
+
+## Music Theory
+
+- Complete the species counterpoint exercises as presented by Jacob Gran.
+- Write a blog post series on species counterpoint to modernize it. For example, the classic species counterpoint exercises only cover dissonances that are approached and left by step.
