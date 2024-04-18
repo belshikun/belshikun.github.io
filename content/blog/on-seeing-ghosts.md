@@ -1,6 +1,7 @@
 +++
 title = 'On Seeing Ghosts'
 date = 2023-12-07T14:03:21-05:00
+draft = true
 +++
 
 When I stay up too late---say, past two in the morning---I tend to have auditory hallucinations. Sometimes I hear muffled conversation that stops abruptly when I get out of bed to investigate. Other times I hear music coming up through the floor. Occasionally I hear a voice harshly whisper my name from right behind my head. These are pretty benign as far as hallucinations go, and I usually just ignore them.

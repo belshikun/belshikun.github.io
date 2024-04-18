@@ -1,6 +1,7 @@
 +++
 title = 'Reading More Books'
 date = 2023-12-07T14:24:30-05:00
+draft = true
 +++
 
 For a while now, I've been planning to read through the major works of western literature and philosophy. I've been stymied by the issues I brought up in [On Taking Notes]({{< ref "on-taking-notes" >}}), but also by my dislike of e-readers. However, I realized yesterday that I live within walking distance of one of the largest public libraries in the country, and I can rent a physical copy any book I want, for free. I haven't been to a library since I was eight, so the idea of getting a library card never crossed my mind. (Even though I've been meaning to go to this library for like a year. Why did I want to go? To see the murals.)

@@ -1,6 +1,7 @@
 +++
 title = 'On Taking Notes'
 date = 2023-12-07T14:08:21-05:00
+draft = true
 +++
 
 I used to read a lot. When I was little, I routinely stayed up late with a book and a flashlight and hid under the covers until my parents caught me. In college I once estimated that I was reading close to one million words of prose every month. But somehow, over time, I pretty much stopped reading.

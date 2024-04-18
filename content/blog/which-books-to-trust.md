@@ -1,6 +1,7 @@
 +++
 title = 'Which Books to Trust?'
 date = 2023-12-07T14:31:13-05:00
+draft = true
 +++
 
 Should one read books for their literary value if they misrepresent the facts? I was debating whether to read *The Story of Civilization* by Will and Ariel Durant, an eleven-volume series covering the history of (mostly European) civilization. However, it is generally considered by historians to be deeply flawed---the Durants take the ancient sources at face value, misrepresent facts, and so on---and I’d probably come out the other side believing things that aren't true.

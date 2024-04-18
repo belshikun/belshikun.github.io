@@ -1,6 +1,7 @@
 +++
 title = 'The Memory Palace in the Sky'
 date = 2023-12-07T14:29:25-05:00
+draft = true
 +++
 
 I realized several years ago that the night sky serves as its own memory palace, making the names and locations of stars exceptionally easy to memorize. I started methodically with the winter triangle and got through all the major stars in Orion, Taurus, Auriga, Gemini, Canis Minor, and Canis Major before I stopped. Each night, I would add two or three new stars to my mental list, and a few times each day I would mentally go over all the stars I had already learned. All it required was a star chart---no flashcards, no programs, no writing anything down.
