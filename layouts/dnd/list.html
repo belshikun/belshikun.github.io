@@ -3,13 +3,16 @@
     <article>
       {{ .Content }}
     </article>
+    <h2>Campaign Logs</h2>
     <ul>
       {{ range where .Pages.ByTitle "Type" "log" }}
         <li>
           <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         </li>
       {{ end }}
-      <hr>
+    </ul>
+    <h2>Other Information</h2>
+    <ul>
       {{ range where .Pages.ByTitle "Type" "!=" "log" }}
         <li>
             <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
