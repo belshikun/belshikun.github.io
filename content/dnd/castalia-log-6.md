@@ -74,11 +74,11 @@ From somewhere outside the cloud, they hear more movement. Everyone rushes outsi
 
 "Who gave you the job?" asks Valya.
 
-"It was--- there's a tavern in Hart's Crossing, a dwarf there, he sometimes offers us jobs, good pay--- we don't know his name---"
+"It was--- there's a tavern in Hart's Crossing, The Lucky Sword, a dwarf there, he sometimes offers us jobs, good pay--- we don't know his name---"
 
 "Oh, don't *lie*," says Aurelia.
 
-"We swear! We don't know it! He, uh, he's always wearing really fancy clothes, lots of gold rings. We were supposed to meet him again a week from now [???] to collect our reward. Same tavern--- uh, the Prancing Stag [???]."
+"It's Julian!" says one of the other students. "He, uh, he's always wearing really fancy clothes, lots of gold rings. We were supposed to take the package and leave it in an abandoned warehouse in Basinglen."
 
 The party confers, and decides to spare them. "Never do something like this again," says Valya. For good measure, they take what gold the students have on them, though it only amounts to 14 gp and 8 sp. "Really?" asks Valya.
 
@@ -232,7 +232,7 @@ There's a line of well-dressed nobles at the entrance to the estate. A servant c
 
 The interior of the estate is lavish, unlike anything any of them---except Valya---have ever seen. Dozens of nobles are spread out over most of the first floor of the estate, but Abundance notices that there are guards blocking the staircase to the upper floors, as well as a hallway. He surmises that the hallway must lead to the kitchen, as staff periodically exit the hallway with full platters of canapés.
 
-They decide to split up to cover more ground. Abundance heads directly for the tables at the far side of the Great Hall which are covered in all manner of dishes. He chats with **Cheldric Tunnely**, a halfling merchant who complains about the attacks on trains from Eth'Alorei and the delays they cause for his shipping business. During the conversation, Abundance spots motion on the second floor landing, but whoever it was darts out of sight when Abundance turns to get a look.
+They decide to split up to cover more ground. Abundance heads directly for the tables at the far side of the Great Hall which are covered in all manner of dishes. He chats with **Cheldric Tunnely**, a halfling merchant who complains about the attacks on trains from Eth'alorei and the delays they cause for his shipping business. During the conversation, Abundance spots motion on the second floor landing, but whoever it was darts out of sight when Abundance turns to get a look.
 
 Abundance, suspicious, heads to the bathroom to discreetly cast *detect magic*. He returns to the Great Hall, but doesn't see anything out of the ordinary. Many people are wearing magic items, but it all seems benign, as far as he can tell.
 
@@ -364,11 +364,11 @@ The carefully make their way out of the Greymar estate, and cross the street to 
 
 As they enter the temple, covered in cuts and bruises, Cedric Daymirror rushes out of his office. "What has happened?"
 
-"They briefly explain the situation, and Cedric suggests they find refuge in the catacombs beneath the temple. "The assassins could be anywhere in the city, but the catacombs are holy to Soleil... none can draw a weapon while they stand in such a place."
+They briefly explain the situation, and Cedric suggests they find refuge in the catacombs beneath the temple. "The assassins could be anywhere in the city, but the catacombs are holy to Soleil... none can draw a weapon while they stand in such a place."
 
 ---
 
-In the catacombs, they interrogate Leander some more.
+In the catacombs, they continue to interrogate Leander.
 
 "My former master, Pamona the Eternal... she had a grimoire called The Book of Dark Waves. She used it to create undead abominations of her own design. After she turned me, she taught me some of its secrets so I could better serve as her apprentice. That knowledge... Tharruk needed it to complete his ritual. When he learned that one of Pamona's spawn had escaped destruction, he sought me out."
 
