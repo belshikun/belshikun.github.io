@@ -112,7 +112,7 @@ Once inside the city walls, they head directly for the temple and show the statu
 
 "We think they might be up to some shady business."
 
-"There's a trader here who might have more information---she's delivering a shipment of food and supplies from the local markets."
+"There's a trader here who might have more information---she's delivering a shipment of food and supplies to the local markets."
 
 They thank Cedric for the lead, and head to the temple's kitchen. Entering they hear a familiar voice. "You!" exclaims Saphielle.
 
@@ -188,7 +188,7 @@ Valspira frowns. "You will, when you hear what I have to offer you."
 
 "Oriel IX Fentris is queen."
 
-"Fentris?" Valspira barks a laugh. "Then that old bastard Raymond managed to keep his kingdom... Oriel is his daughter, I take it?" The party looks at each other awkwardly. Valspira's face darkens. "Granddaughter?"
+"Fentris?" Valspira barks a laugh. "Then that old bastard Raymond managed to keep his kingdom... Oriel is his daughter, I take it?" The party looks at each other awkwardly. "...Granddaughter?"
 
 "Raymond Fentris was king over 650 years ago," says Valya.
 
@@ -218,7 +218,7 @@ Abundance shrugs and starts casting *mage hand*. "No!" shouts Valspira. "You hav
 
 "What do we do now?" asks Aurelia. "The temples are sending an expedition to Vargrath Keep sometime soon, the gala is tonight, and tomorrow we leave for Kyasha's Vale..."
 
-"Well, we're going to a gala, and we don't have the proper attire," says Vala. "There's only one possibility---I'm shopping for clothes."
+"Well, we're going to a gala, and we don't have the proper attire," says Valya. "There's only one possibility---I'm shopping for clothes."
 
 While the rest of the party spend some downtime studying and preparing for a possible attack, Valya heads to the clothing district of the city. She returns a while later with two formal gowns---one for herself, and one for Aurelia. She also gives Aurelia a silver pin for her hair.
 
@@ -252,7 +252,7 @@ Lady Omanys's eyes go wide. "A Haedel? I've heard the rumors about what happened
 
 "Well, I'm an art collector, I suppose. I specialize in the contemporary painting of Amyanthalas, but it's so much more convenient to operate out of Crystalport, so I made my home here. I visit Nahalis often, to handle what affairs must be handled in person."
 
-Valya and Lady Omanys continue to chat, while Aurelia and Qhask head to the library. As they approach, they hear a familiar voice; Leander! He's sitting on a couch, talking with a young man with olive skin and royal attire---Prince Calvin. Standing behind them is Lythienne. Aurelia speaks first. "Lythienne! Good evening." Then Aurelia frowns. "Leander."
+Valya and Lady Omanys continue to chat, while Aurelia and Qhask head to the library. As they approach, they hear a familiar voice; Leander! He's sitting on a couch, talking with a young man with olive skin and royal attire---**Prince Calvin**. Standing behind them is Lythienne. Aurelia speaks first. "Lythienne! Good evening." Then Aurelia frowns. "Leander."
 
 Leander scowls at Aurelia. Prince Calvin, oblivious, asks "Oh, are you already acquainted? Who are our new guests, Leander?"
 
@@ -266,7 +266,7 @@ Calvin smiles and laughs. He addresses Aurelia and Qhask. "Please, excuse my fia
 
 Abundance and Valya, having wandered to the library by this point, step forward and introduce themselves.
 
-"They don't look very... heroic," says Leander. Perhaps you should let the city guard handle this themselves? This lot are liable to get themselves killed."
+"They don't look very... heroic," says Leander. "Perhaps you should let the city guard handle this themselves? This lot are liable to get themselves killed."
 
 "If I recall, we wiped the floor with *you*," retorts Aurelia.
 
@@ -346,7 +346,7 @@ The room is dead silent for a few moments, while everyone processes this new inf
 
 Suddenly, a window in the hallway explodes into thousands of shards of glass, and archers begin shooting at them from outside. Two men, armed with daggers, burst through another window.
 
-Valya bolts into the hallway to engage the attackers while Qhask fires arrows of his own out the window. Unfortunately, they hear shouts of confusion and broken glass from the floor below---the Wood Scorpions have arrived, and they have the place surrounded.
+Valya bolts into the hallway to engage the attackers while Qhask fires arrows of his own out the window. Unfortunately, they hear shouts of confusion and broken glass from the floor below---the Wood Scorpions have arrived, and they have the place surrounded. Fergus bolts down the stairs and out of sight.
 
 "We have to get the prince to safety!" shouts Lythienne. "Hold them off, but retreat to this room! There's a tunnel." She turns to the two guards. **Jaryth**. **Marcus**. Keep a tight grip on Leander and do not, under any circumstances, let him go."
 
@@ -370,7 +370,7 @@ They briefly explain the situation, and Cedric suggests they find refuge in the 
 
 In the catacombs, they continue to interrogate Leander.
 
-"My former master, Pamona the Eternal... she had a grimoire called The Book of Dark Waves. She used it to create undead abominations of her own design. After she turned me, she taught me some of its secrets so I could better serve as her apprentice. That knowledge... Tharruk needed it to complete his ritual. When he learned that one of Pamona's spawn had escaped destruction, he sought me out."
+"My former master, Pamona the Eternal... she had a grimoire called *The Book of Dark Waves*. She used it to create undead abominations of her own design. After she turned me, she taught me some of its secrets so I could better serve as her apprentice. That knowledge... Tharruk needed it to complete his ritual. When he learned that one of Pamona's spawn had escaped destruction, he sought me out."
 
 "Where is the book now? It could be key to stopping the ritual," asks Valya.
 
@@ -384,7 +384,7 @@ In the catacombs, they continue to interrogate Leander.
 
 "So *that's* how you were doing it," says Abundance.
 
-Prince Calvin, who has seemed like he was in shock, thanks the party for saving him. "Those assassins must have been from the Wood Scorpions. I don't think Crystalport is a safe place for me anymore... I might have to return to the Citadel." He makes a face.
+Prince Calvin thanks the party for saving him. "Those assassins must have been from the Wood Scorpions. I don't think Crystalport is a safe place for me anymore... I might have to return to the Citadel." He makes a face.
 
 "What do we do with Leander?" asks Valya.
 
