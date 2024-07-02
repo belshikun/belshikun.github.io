@@ -40,3 +40,8 @@ No treasure found.
 - Earned two antidotes.
 - Earned *Vodonapharmaka*, an herbalism textbook.
 
+## Session 6
+
+- Kept Valspira's orb instead of passing it to Remy or the Red Eagle.
+- Found 10 gp and one vial of drow poison on the assassins.
+- Received 1000 gp from Prince Calvin.

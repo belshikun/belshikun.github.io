@@ -360,6 +360,8 @@ One by one, they enter the cramped shaft and descend the ladder. They find thems
 
 They all pile into the tunnel behind the *flaming sphere*, and after a tense minute they emerge into the basement of the Greymar estate. The archer has holed himself up behind some boxes on the other side of the room, and begins firing arrow after arrow at the party, while a few more assassins burst out from the corners of the room to attack with daggers. Those who are hit by the arrows discover that they're laced with poison, but the party has a numerical advantage, and soon they've killed the assassins.
 
+A quick search of the bodies reveals several pins and pendants decorated with the Wood Scorpion's motif, as well as 10 gp and a vial of drow poison.
+
 The carefully make their way out of the Greymar estate, and cross the street to the Temple of Soleil. In the distance, they can see part of the Daykin manor, the east wing, is on fire, and they can hear that a crowd of citizens has gathered in front of the estate to gawk.
 
 As they enter the temple, covered in cuts and bruises, Cedric Daymirror rushes out of his office. "What has happened?"
