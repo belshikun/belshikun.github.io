@@ -240,7 +240,7 @@ Valya, wandering about the floor and listening for any relevant conversation, no
 
 "It isn't often I meet a fellow Thamorian here. I am Lady **Aliatha Omanys**, of Nahalis. And you are...?"
 
-Valya decides not to lie. "I am Vahadryl Haedel, we haven't met, but I know of you through my father."
+Valya decides not to lie. "I am Vahadryl Haedel. We haven't met, but I know of you through my father."
 
 Lady Omanys's eyes go wide. "A Haedel? I've heard the rumors about what happened at their manor... Wait, surely you're not---"
 
