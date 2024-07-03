@@ -398,5 +398,5 @@ Prince Calvin nods, acquiescing. He turns to address the party. "Thank you, agai
 
 In the morning, a priestess comes down to bring news from outside. Several nobles were killed in the crossfire last night, but no one the party knows. When the city guard arrived and the assassins determined Prince Calvin was no longer in the building, they fled. The fire was put out before it could take the whole estate, but the east wing is heavily damaged. Curiously, several independent witnesses claim they saw imps flying out of the east tower while it was burning!
 
-"Well, that's suspicious..." says Abundance.
+"Well, that's suspicious..." says Abundance. &#x2766;
 
