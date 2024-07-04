@@ -8,7 +8,7 @@ type = 'log'
 
 ## Thursday, December 6, 652 AU, continued
 
-It's getting late in the afternoon, so the party decides to ask Gordon for two rooms at the temple of Corentin for the night. Their rooms arranged, they return to the stable where they left their horses. Finlay, the owner, agrees to buy the horses for 50 gp. Finally, they confront Bodo. Although he's adamant that they're all just meddlers and that Riley deserves to be punished, the weight of the evidence for her innocence eventually convinces him that *maybe* Riley isn't *totally* responsible for everything. Good enough!
+It's getting late in the afternoon, so the party decides to ask Gordon for two rooms at the temple of Corentin for the night. Their rooms arranged, they return to the stable where they left their horses. **Finlay**, the owner, agrees to buy the horses for 50 gp. Finally, they confront Bodo. Although he's adamant that they're all just meddlers and that Riley deserves to be punished, the weight of the evidence for her innocence eventually convinces him that *maybe* Riley isn't *totally* responsible for everything. Good enough!
 
 Back in their makeshift room at the temple, Abundance opens the scroll of *Tenser's floating disk* and begins tattoing his arm, periodically consulting the scroll.
 
@@ -88,7 +88,7 @@ Suitably chastized, the students collect themselves while the party continues on
 
 ---
 
-They reach Crystalport's western gate. Unlike the previous few times they've entered the city, the guards seem very suspicious. "Do you have anything to declare?" asks the guard, obviously suspicious of their covered *floating disk*.
+They reach Crystalport's western gate. Unlike the previous few times they've entered the city, the guards seem very suspicious. "Do you have anything to declare?" asks the guard, eyeing the covered *floating disk*.
 
 "It's a delicate matter," says Aurelia. "We found an evil relic, and are transporting it to the temple of Soleil to be cleansed and destroyed."
 
@@ -288,7 +288,7 @@ Everyone, including Lythienne, blinks. *Calvin already knows?* Leander rolls his
 
 "We encountered him at Vargrath Keep. I'm sorry, your highness, but he's working for Tharruk, an evil lich." says Aurelia.
 
-"That's... preposterous!" says Calvin.
+"That's... preposterous! Leander may be a vampire spawn, but he has a good heart! You have no right to speak such lies about him." says Calvin.
 
 "Indeed," says Leander.
 

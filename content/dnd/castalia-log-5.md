@@ -140,7 +140,7 @@ A few minutes later, they spot some grung up ahead. The grung, armed with spears
 
 "Yes," replies Valya. Everyone introduces themselves to Elder r'Riekheph'bhep. "Do you know where Cora is?"
 
-The elder's expression darkens. "She ventured into the deep swamp yesterday, to collect White Glass Snails. We warned her about the stone lizards, but she said it was urgent."
+The elder's expression darkens. "She ventured into the deep swamp yesterday, to collect white glass snails. We warned her about the stone lizards, but she said it was urgent."
 
 "Stone lizards?" asks Valya, hoping the elder doesn't mean what she thinks he means.
 
@@ -212,9 +212,9 @@ It takes them a while to clear away enough of the rubble, but eventually they've
 
 "That's promising," says Abundance.
 
-They open the hatch. A ladder descends into a dark, must root cellar, which hasn't seen the light of day for... who knows how long? They can see shelves stuffed with jars of preserved vegetables near the ladder, but to see the true extent of the basement they'd have to descend.
+They open the hatch. A ladder descends into a dark, musty root cellar, which hasn't seen the light of day for... who *knows* how long? They can see shelves stuffed with jars of preserved vegetables near the ladder, but to see the true extent of the basement they'd have to descend.
 
-Carefully, they climb down the old ladder one by one, until they are all standing on the bare dirt floor. It's silent, and the musty smell of rot replaces the smokey smell of the burned farmhouse above. The cellar is only as big as the footprint of the farmhouse above, and it's packed with freestanding wooden shelving units containing jars of preserves, but also old vegetables long since rotted away, linens, and rusted farming tools. It's all neatly laid out... but as they cautiously creep about, they discover one of the shelves has been turned to the side, out of line with the shelves around it.
+Carefully, they climb down the old ladder one by one, until they are all standing on the bare dirt floor. It's silent, and the musty smell of rot replaces the smokey smell of the burned farmhouse above. The cellar is only as big as the footprint of the farmhouse above, and it's packed with freestanding wooden shelving units containing jars of preserves, but also old vegetables long since rotted away, linens, and rusted farming tools. It's all neatly laid out, but as they cautiously creep about, they discover one of the shelves has been turned to the side, out of line with the shelves around it.
 
 There, under where the shelf once stood, is a pile of loosened dirt. An old shovel lies on the ground next to it---as if someone dug a hole with the shovel, then changed their mind and filled it back up. What could be in the hole? Everyone feels uneasy, as if they're being watched.
 

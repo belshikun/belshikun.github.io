@@ -42,6 +42,7 @@ date = 2023-11-30T10:15:01-05:00
 
 ## Session 6
 
+- 14 gp and 8 sp from student ambushers.
 - Kept Valspira's orb instead of passing it to Remy or the Red Eagle.
 - Found 10 gp and one vial of drow poison on the assassins.
 - Received 1000 gp from Prince Calvin.
