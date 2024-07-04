@@ -5,7 +5,7 @@ date = 2023-11-30T10:15:01-05:00
 
 ## Session 1
 
-No treasure found.
+- Two vials of holy water from abandoned Temple of Kyasha.
 
 ## Session 2
 

@@ -286,7 +286,7 @@ There's not much of value left among the debris, but they do find a steel box un
 
 Next, they carefully open the double doors and discover it does, indeed, lead to a hallway. It's dark, damp, and the carpet is half full of holes and patches of mold. There are sconces along the walls that once held torches, but they are now empty. There are several other doors, but all are closed.
 
-Valya decides to inspect the door across the hall. She places her ear against it, and listens. She hears something! There are two voices, one raspy and one gutteral. The gutteral voice asks "When do you think the food will be served? I'm starving." The raspy voice responds "Patience, Hamog. Tharruk would never make his guests wait for long. And he always serves delectable food before the festivities."
+Valya decides to inspect the door across the hall. She places her ear against it, and listens. She hears something! There are two voices, one raspy and one gutteral. The gutteral voice asks "When do you think the food will be served? I'm starving." The raspy voice responds "Patience, **Hamog**. Tharruk would never make his guests wait for long. And he always serves delectable food before the festivities."
 
 Valya returns to the others and whispers what she heard. Presuming the inhabitants are undead, they decide to bust down the door and catch them by surprise.
 
@@ -296,7 +296,7 @@ It doesn't take long before they've killed the ghoul, and the skeleton, surround
 
 "What are you doing here? Who is Tharruk?" asks Valya.
 
-"My name is Xatriq," replies the skeleton. "I am an honored guest of Tharruk, master of this place. You will regret what you have done here! You will regret harming me!"
+"My name is **Xatriq**," replies the skeleton. "I am an honored guest of Tharruk, master of this place. You will regret what you have done here! You will regret harming me!"
 
 "We heard you talking about "festivities"," says Aurelia. "What were you referring to?"
 

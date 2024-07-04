@@ -22,7 +22,7 @@ Valya inspects the corpse of a zombie that came with them on the boat. It's a wo
 
 ---
 
-While they wait for the captain to regain consciousness, Abundance tells them why he was there. He is a wizard from Khorsir---a mountainous country to the north of Castalia---and he recently came to Castalia. He was looking for herbs in the forest, when he was ambushed and knocked out. He awoke some time later, finding himself in a wine cellar that had been converted into a prison. His belongings were on the other side of an iron grate door, out of reach. He sent Magpie for help, and waited.
+While they wait for the captain to regain consciousness, Abundance tells them why he was there. He is a wizard from Khorsir---a mountainous country to the north---and he recently came to Castalia. He was looking for herbs in the forest, when he was ambushed and knocked out. He awoke some time later, finding himself in a wine cellar that had been converted into a prison. His belongings were on the other side of an iron grate door, out of reach. He sent Magpie for help, and waited.
 
 Soon, two people approached. One was a young-looking vampire, and the other was something far worse---a living corpse with pinpricks of cold blue fire in its otherwise dark eye sockets. The corpse said "Ah... such a unique specimen. It could prove quite useful if broken down for parts. See to it that it does not escape while I make the necessary preparations." The vampire nodded, but as the corpse turned to leave, and the vampire shot Abundance a weird look. Like he's furious and... hurt, somehow?
 

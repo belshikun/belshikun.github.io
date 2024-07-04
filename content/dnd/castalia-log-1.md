@@ -78,7 +78,7 @@ After a few minutes, the hydra returns to the forest. Once they're sure it's far
 
 They convene in the common room to discuss. It appears that there *is* a monster, but it's certainly not the one that killed Alec. Are the hydra and the murder completely unrelated, or is there some link? They ask Avilia about the pool, and she tells them that the priesthood of Kyasha once ran a temple in town. They abruptly left soon after the well dried up, and the temple was abandoned. The town uses it for storage now.
 
-They decide to investigate the temple. After picking the lock and getting inside, they find a bunch of furniture and equipment gathering dust. There isn't anything of immediate use except two vials of holy water in one of the back rooms. Fergus also notices that the furniture in the temple is of very high quality---it's elaborately carved solid mahogany. Very out-of-place in Kyasha's Vale, except that he's seen furniture like this before'the reeve has a desk in his office that must be from the same set.
+They decide to investigate the temple. After picking the lock and getting inside, they find a bunch of furniture and equipment gathering dust. There isn't anything of immediate use except two vials of holy water in one of the back rooms. Fergus also notices that the furniture in the temple is of very high quality---it's elaborately carved solid mahogany. Very out-of-place in Kyasha's Vale, except that he's seen furniture like this before---the reeve has a desk in his office that must be from the same set.
 
 Fergus begins to rant about the reeve, Edward de Lane, and his habit of extracting extra taxes from the town in the name of the absentee baron, Lord Bryn Redgate, using the money to live like a lord himself.
 
@@ -96,7 +96,7 @@ Everyone watches as Rex's body morphs into his true form---a doppelganger! With 
 
 ## Wednesday, November 21, 652 AU
 
-The next morning, while in the common room, they receive a visit from Klabrog, the head of the town guard, and **Edward de Lane**, the reeve of Kyasha's Vale. The reeve is an unpleasant person, and he demands to know why the party has disrupted the peace and claimed there was a murderer on the loose, tarnishing the good name of their peaceful village. The party protests and shows them the body of the doppelganger, and Klabrog confirms that he's asked the guests what happened and it seems like there was, in fact, a murder.
+The next morning, while in the common room, they receive a visit from Klabrog, the head of the town guard, and **Edward de Lane**, the reeve of Kyasha's Vale. The reeve is an unpleasant person, and he demands to know why the party has spread rumors of a murderer on the loose, tarnishing the good name of their peaceful village. The party protests and shows them the body of the doppelganger, and Klabrog confirms that he's asked the guests what happened and it seems like there was, in fact, a murder.
 
 The reeve relents and (grudgingly, after much protest) offers a reward; twenty gold pieces ("Each?" "Total."). He invites them to his manor. At the manor, they see the desk that matches the furniture from the church, and investigate it while the reeve is in another room collecting their reward. They find a secret drawer, pick the lock, and find a letter inside. However, it's not from the reeve... it's much older. Apparently, the reeve had no idea the secret drawer existed. It reads:
 
