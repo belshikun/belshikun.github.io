@@ -316,7 +316,7 @@ The room is dead silent for a few moments, while everyone processes this new inf
 
 "Based on your confession, you *are* a monster. And how *dare* you imply that Soleil---"
 
-"Is merciless? She *is*. Have you ever thought how *strange* it is that, *you* can walk in the moon, but *I* can't walk in the sun? Neesha is the forgiving one, priestess. Tharruk was simply going to even the playing field, give our kind a place where we don't have to hide---"
+"Is merciless? She *is*. Have you ever thought how *strange* it is that *you* can walk in the moon, but *I* can't walk in the sun? Neesha is the forgiving one, priestess. Tharruk was simply going to even the playing field, give our kind a place where we don't have to hide---"
 
 "He would condemn an entire city to undeath!"
 
@@ -376,7 +376,7 @@ In the catacombs, they continue to interrogate Leander.
 
 "Where is the book now? It could be key to stopping the ritual," asks Valya.
 
-"I don't know. Presumably the paladins of Soleil took it during their raid. If so, it's probably in the vaults under the temple in the Shining Citadel."
+"I don't know. Presumably the paladins of Soleil took it during their raid. If so, it's probably in the vaults under the High Temple of Soleil in the Shining Citadel."
 
 "That's so far away... we won't make it there and back before the solstice," says Qhask.
 
