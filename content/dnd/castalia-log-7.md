@@ -5,7 +5,7 @@ type = 'log'
 draft = true
 +++
 
-## Saturday, December 8, 652 AU (continued)
+## Saturday, December 8, 652 AU, continued
 
 After Lythienne and the two guards depart with Calvin and Leander, the party is approached by a new face in the main atrium of the temple. He introduces himself as **Thaldohr Broadbuster**, a dwarven sword-smith and cook who has been wandering the land, offering aid to those unable to defend themselves. He couldn't help overhearing the party talking about their adventures, and would like to join them.
 

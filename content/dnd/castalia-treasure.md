@@ -47,3 +47,26 @@ date = 2023-11-30T10:15:01-05:00
 - Found 10 gp and one vial of drow poison on the assassins.
 - Received a brooch of living essence from Leander.
 - Received 1000 gp from Prince Calvin.
+
+## Session 7
+
+- Paid Remy 375 gp for a bag of holding.
+- Paid Remy 25 gp for fine china.
+- Paid 25 gp to Jonas and Dusk.
+- Gave 1 sp to mysterious spy.
+- Spent "a few hundred" on clothes.
+- Spent ??? on rations.
+- Spent 15 sp (5 sp each) at the Mithril Spoon.
+- Paid 11 gp tip to waitress.
+- Found 70 gp, 1200 sp, and 2000 cp.
+- Found a sardonyx bracelet (unappraised).
+- Found a pair of star rose quartz earrings (unappraised).
+- Found a chrysoprase bracelent (unappraised).
+- Found an elixir of health.
+- Found oil of etherealness.
+- Found oil of sharpness.
+- Found potion of healing.
+- Found potion of greater healing.
+- Collected the Kildare smithy records.
+- Found Mage-Slayer (+1 shortsword that ignores AC bonuses given by *shield* and *mage armor*)
+
