@@ -1,6 +1,6 @@
 +++
 title = 'Castalia Chronicles, Session 7'
-date = 2024-07-30T12:59:19-04:00
+date = 2024-08-02T12:59:19-04:00
 type = 'log'
 +++
 
