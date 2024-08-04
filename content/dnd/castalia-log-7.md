@@ -4,6 +4,8 @@ date = 2024-08-02T12:59:19-04:00
 type = 'log'
 +++
 
+*Played on 2024-07-07.*
+
 ## Saturday, December 8, 652 AU, continued
 
 After Lythienne and the two guards depart with Calvin and Leander, the party is approached by a new face in the main atrium of the temple. He introduces himself as **Thaldohr Broadbuster**, a dwarven sword-smith and cook who has been wandering the land, offering aid to those unable to defend themselves. He couldn't help overhearing the party talking about their adventures, and would like to join them.
@@ -90,7 +92,7 @@ Cedric thinks for a moment. "Does anyone know that you have this?"
 
 "But they don't know we have it," says Valya.
 
-"So you're certain that nobody knows where it is, right now, except for your party... I'll leave it up to your judgement. The vault here is not so well protected as the vault in the temple in the shining citadel, but it does have some protections."
+"So you're certain that nobody knows where it is, right now, except for your party... I'll leave it up to your judgement. The vault here is not so well protected as the vault in the temple in the Shining Citadel, but it does have some protections."
 
 "There have already been attempts to steal this artifact---I wouldn't be surprised if someone was smart enough to break in," says Aurelia.
 
@@ -704,7 +706,7 @@ Valya links with her mind. *This should let us communcate for a short while.*
 
 Aurelia sneaks further into town while Valya tells Thaldohr about Aurelia's encounter with the gelatinous cube, theorizing that Aurelia actually died at the time but was brought back by Soleil.
 
-Aurelia notices dead bodies on the streets. Most of them appear to he former undead townsfolk, each peppered with arrows, presumably by the Crystalport city guard. As she turns a corner, she comes across the town square. Standing in the square are around thirty zombies. She quickly darts back behind a building, but the zombies are all just standing there, motionless, and don't seem to have noticed her. But Aurelia notices that each of the zombies has a shiny ring on their finger, untarnished by rust.
+Aurelia notices dead bodies on the streets. Most of them appear to be former undead townsfolk, each peppered with arrows, presumably by the Crystalport city guard. As she turns a corner, she comes across the town square. Standing in the square are around thirty zombies. She quickly darts back behind a building, but the zombies are all just standing there, motionless, and don't seem to have noticed her. But Aurelia notices that each of the zombies has a shiny ring on their finger, untarnished by rust.
 
 More importantly, she also notices that on the opposite side of the square is a luxurious estate with a large smithy connected to its western side! The Kildares must have been quite wealthy. Aurelia begins walking around the town square, giving it a wide berth, to get closer to the smithy. Suddenly, out of nowhere, she feels ice-cold claws rake across her back. She stifles a scream to avoid attracting the undead, turns, but doesn't see anyone before she faints from the sudden shock.
 
@@ -720,11 +722,9 @@ Aurelia takes the teacup, not wanting to anger the creature, and another teacup 
 
 "What the heck?" Valya whispers to Thaldohr. Then, reconnecting telepathically with Aurelia, *Are you okay? What's going on?*
 
-*I have no idea!* replies Aurelia. *This creature attacked me and i woke up here.*
+*I have no idea!* replies Aurelia. *This creature attacked me and I woke up here.*
 
-The creature continues to hold a nonsensical conversation with Aurelia while pretending to sip tea.
-
-Suddenly, another invisible creature wearing once-fancy clothing enters the room, picking up another teacup in its invisible hands. It, too, joins in the nonsensical "conversation".
+The creature continues to babble at Aurelia while pretending to sip tea. Then, *another* invisible creature wearing once-fancy clothing enters the room. It, too, picks up a teacup and joins in the nonsensical "conversation".
 
 *What should we do?* Valya asks Aurelia.
 
@@ -740,11 +740,11 @@ Valya, having seen enough, kicks open the door next to the window, shouts "Let h
 
 Suddenly, Valya feels claws along her back---she has been attacked by a third creature that wasn't wearing clothes.
 
-Thaldohr climbs in through the broken window, and notices that he can see the creatures' reflections in the shattered glass on the floor---it's a grotesque, faceless shadowy humanoid. He swings his warhammer at one of the clothed creatures, but misses.
+Thaldohr climbs in through the broken window, and notices that he can see the creatures' reflections in the shattered glass on the floor---they're grotesque, faceless shadowy humanoids. He swings his warhammer at one of the clothed creatures, but misses.
 
 The creature retaliates by slashing at Thaldohr, and the other one slashes at Valya, dealing massive damage in a critical hit. Aurelia channels divinity to cast *turn undead*, dealing enough radiant damage to destroy the creatures.
 
-Thaldohr tells them about the glass, and Valya uses a shard to look at the invisible bodies. Aurelia thinks they might be skulks---soulless shells of travelers lost in the shadowfell, pantomiming their former lives.
+Shaken, Thaldohr tells them about the glass, and Valya uses a shard to look at the invisible bodies. Aurelia thinks they might be skulks---soulless shells of travelers lost in the shadowfell, pantomiming their former lives.
 
 Aurelia casts another *prayer of healing*, and they decide to rest for a while in this abandoned house. Aurelia explains that she saw the smithy on the other side of the square. They take a look around the house---it appears to have been the home of a moderately wealthy merchant family. In an adjacent room are three bodies, shredded to death by claws. They appear to have been adventurers. Valya thinks they've been here a year. On their bodies they find rope, pickaxes, crowbars, and a collapsible shovel---it's likely that they were raiders, looking for loot. Aurelia performs last rites.
 
@@ -862,7 +862,7 @@ Before they retire for the night, Aurelia takes some time to inspect the door to
 
 The following morning, they hear the pounding of the zombies less frequently. It sounds like there are only a few left---the others must have wandered off throughout the night. The mass of limbs hasn't made any noise the whole night. They wonder what it's doing.
 
-They remove the barricades and exit the vault. The stairwell empty, so they cautiously make their way to the top of the stairs. Aurelia studies the magical sigils on this side of the door, and confirms that the alarm won't trigger if it's opened from this side. Valya casts *armor of agathys* on herself as a precaution, then opens the door.
+They remove the barricades and exit the vault. The stairwell empty, so they cautiously make their way to the top of the stairs. Aurelia studies the magical sigils on this side of the door, and confirms that the alarm won't trigger if it's opened from this side. Valya casts *armor of Agathys* on herself as a precaution, then opens the door.
 
 Unfortunately, the mass of limbs is waiting for them in the office. As soon as Valya opens the door, the tangle of severed body parts, known to necromancers as a soul shaker, begins stomping and clawing toward her.
 
@@ -872,7 +872,7 @@ Thaldohr brings his warmhammer down on the soul shaker and makes contact, crunch
 
 Valya swings her scimitar at it twice, and Aurelia casts *guiding bolt*, dealing a massive amount of radiant damage. All the while, the zombies outside continue to batter the door ineffectually, their interest renewed by the sounds of battle.
 
-Thaldohr crushes more of the limns with his warhammer. Thaldohr again feels the hands gripping him turn ice-cold, and this time he takes necrotic damage, sapping him of his vitality and also healing the soul shaker.
+Thaldohr crushes more of the limbs with his warhammer, but again feels the hands turn ice-cold, and this time he takes necrotic damage, sapping him of his vitality and also healing the soul shaker.
 
 Valya slashes twice more with her scimitar. The limbs of the soul shaker are flailing, broken, and bloody, and Aurelia thinks the unholy abomination is close to death. She casts *sacred flame*, but misses.
 
